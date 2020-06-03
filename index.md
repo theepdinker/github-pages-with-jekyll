@@ -1,6 +1,6 @@
 opinions that are not well thought-out
 
 
-<a href=""><img src="theepdinker.JPG" height="10"/></a>
+<a href="theepdinker.JPG"><img src="theepdinker.JPG" width="10" height="10"/></a>
 
 
