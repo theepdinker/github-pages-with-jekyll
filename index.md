@@ -1,1 +1,1 @@
-Polemic Diatribe! For opinions that are not well thought-out
+opinions that are not well thought-out
